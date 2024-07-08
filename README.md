@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<a href="http://u.fsf.org/16f"><img src="https://static.fsf.org/nosvn/images/badges/i-support-fs_yellow-bg.png" alt="I support free software"></a>
+<a href="http://u.fsf.org/16e"><img src="https://static.fsf.org/nosvn/images/badges/fsfs_icons_yellow-bg.png" alt="Free Software, Free Society"></a>
+
 <!--
 **Antoine-Regembal/Antoine-Regembal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
